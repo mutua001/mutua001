@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @mutua001
-- 👀 I’m interested in ...in programming and pent testing
-- 🌱 I’m currently learning ...programming
-- 💞️ I’m looking to collaborate on ...programming and pent testing
-- 📫 How to reach me ...my email.mutua8299@mail.com
+👋 Hi, I'm Peter – Data Analyst | Data Enthusiast
+🔹 Passionate about turning raw data into meaningful insights.
+🔹 Experienced in SQL, Python, Power BI, Tableau, and Excel for data analysis & visualization.
+🔹 Skilled in data cleaning, statistical analysis, and predictive modeling.
+🔹 Interested in business analytics, financial data, healthcare insights, and logistics optimization.
+🔹 Always learning about machine learning and AI for data-driven decision-making.
 
-<!---
-mutua001/mutua001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Check out my projects on sales analytics, customer segmentation, and predictive modeling!
+🚀 Let's connect and build data-driven solutions!
+
+💡 Open to collaborations in data analytics, dashboard development, and automation.
+
+
