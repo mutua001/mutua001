@@ -1,4 +1,4 @@
-👋 Hi, I'm Peter – Data Analyst | Data Enthusiast
+👋 Hi, I'm Peter – Data Analyst | Data Scientist
 🔹 Passionate about turning raw data into meaningful insights.
 🔹 Experienced in SQL, Python, Power BI, Tableau, and Excel for data analysis & visualization.
 🔹 Skilled in data cleaning, statistical analysis, and predictive modeling.
