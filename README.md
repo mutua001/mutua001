@@ -20,7 +20,7 @@ Passionate about transforming raw data into powerful insights that drive decisio
 | Data Cleaning    | Excel, SQL, Pandas |
 | Data Viz         | Tableau, Power BI, Matplotlib |
 | Analytics        | Excel, SQL, R |
-| ML Foundations   | Scikit-Learn, Python |
+| ML Foundations   | Scikit-Learn, Python |Pytorch ,snowflake ,Handoop 
 | Reporting        | PowerPoint, Google Sheets |
 | Project Tools    | GitHub, Jupyter Notebooks |
 
