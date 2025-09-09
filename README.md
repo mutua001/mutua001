@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Peter Mutua
 
-### 📊 Data Analyst | 🌐 Aspiring Data Scientist  
+### 📊 Data Analyst | 🌐  Data Scientist  
 Passionate about transforming raw data into powerful insights that drive decisions.
 
 ---
