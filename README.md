@@ -27,7 +27,14 @@ Passionate about transforming raw data into powerful insights that drive decisio
 | AI Tools   | Gemini Claude GPT Anthropic Codex |
 
 ---
+ ##🔍 Specialized Expertise
+###LLMs & Chatbots: Designing custom agentic workflows using Anthropic Claude and Google Gemini.
 
+-Workflow Automation: End-to-end integration using n8n, Zapier, and API connectivity.
+
+-Agile Framework: Managing data projects with an iterative, value-first approach.
+
+-Antigravity: Thinking outside the box to solve complex data bottlenecks.
 ## 📁 Featured Project
 
 ### 🧾 [Merchandise Sales Dashboard](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_REPO)
