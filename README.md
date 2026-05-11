@@ -27,8 +27,8 @@ Passionate about transforming raw data into powerful insights that drive decisio
 | AI Tools   | Gemini Claude GPT Anthropic Codex |
 
 ---
- ##🔍 Specialized Expertise
-###LLMs & Chatbots: Designing custom agentic workflows using Anthropic Claude and Google Gemini.
+ ## 🔍Specialized Expertise
+### LLMs & Chatbots: Designing custom agentic workflows using Anthropic Claude and Google Gemini.
 
 -Workflow Automation: End-to-end integration using n8n, Zapier, and API connectivity.
 
