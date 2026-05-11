@@ -20,9 +20,11 @@ Passionate about transforming raw data into powerful insights that drive decisio
 | Data Cleaning    | Excel, SQL, Pandas |
 | Data Viz         | Tableau, Power BI, Matplotlib |
 | Analytics        | Excel, SQL, R |
-| ML Foundations   | Scikit-Learn, Python ,Pytorch ,snowflake ,Handoop |
+| ML Foundations   | Scikit-Learn, Python ,Pytorch ,snowflake ,Handoop |Airflow | Data pipelines
 | Reporting        | PowerPoint, Google Sheets |
 | Project Tools    | GitHub, Jupyter Notebooks |
+| Automation Tools    | N8N Python data pipelines API intergration Tokenazation |
+| AI Tools   | Gemini Claude GPT Anthropic Codex |
 
 ---
 
